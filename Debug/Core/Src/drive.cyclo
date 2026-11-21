@@ -1,0 +1,6 @@
+../Core/Src/drive.c:22:13:sync_count	1
+../Core/Src/drive.c:35:6:drive_init	1
+../Core/Src/drive.c:83:6:drive_set_speed	5
+../Core/Src/drive.c:100:9:drive_get_count	1
+../Core/Src/drive.c:106:6:drive_measure_speed	2
+../Core/Src/drive.c:124:7:drive_get_speed_rpm	1

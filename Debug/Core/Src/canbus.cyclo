@@ -1,0 +1,3 @@
+../Core/Src/canbus.c:16:6:can_init	3
+../Core/Src/canbus.c:58:6:can_send	4
+../Core/Src/canbus.c:80:6:can_receive	5

@@ -1,0 +1,9 @@
+../Core/Src/bsp.c:12:6:bsp_init	32	static
+../Core/Src/bsp.c:26:10:bsp_cycles	4	static
+../Core/Src/bsp.c:31:10:bsp_cycles_to_us	16	static
+../Core/Src/bsp.c:37:6:bsp_gpio_out	40	static
+../Core/Src/bsp.c:48:6:bsp_gpio_in_pullup	40	static
+../Core/Src/bsp.c:57:6:bsp_gpio_af	48	static
+../Core/Src/bsp.c:69:6:bsp_pwm_timer_init	40	static
+../Core/Src/bsp.c:86:6:bsp_pwm_channel_init	48	static
+../Core/Src/bsp.c:97:6:bsp_pwm_set	32	static
